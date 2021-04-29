@@ -1,9 +1,9 @@
 # song_classifier
 song classifier mainly using librosa library &amp; tensorflow framework
 
-# Song_classifier3.ipynb
+## Song_classifier3.ipynb
 
-## genre 경로는 github에서 sonmoogu/song_classifier2/genres/
+### genre 경로는 github에서 sonmoogu/song_classifier2/genres/
 
 GTZAN Genre (10개의 장르/ 각 장르당 100개의 샘플.wav)를 이용하여
 1. 각 장르별 Mel_spectrogram 도시화
