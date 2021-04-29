@@ -1,5 +1,5 @@
 # song_classifier2
-song classifier mainly using librosa &amp; tensorflow library
+song classifier mainly using librosa library &amp; tensorflow framework
 
 # Song_classifier3.ipynb
 
