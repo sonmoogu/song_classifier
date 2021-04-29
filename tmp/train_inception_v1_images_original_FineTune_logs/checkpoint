@@ -1,0 +1,6 @@
+model_checkpoint_path: "\\tmp\\train_inception_v1_images_original_FineTune_logs\\model.ckpt-1000"
+all_model_checkpoint_paths: "\\tmp\\train_inception_v1_images_original_FineTune_logs\\model.ckpt-866"
+all_model_checkpoint_paths: "\\tmp\\train_inception_v1_images_original_FineTune_logs\\model.ckpt-899"
+all_model_checkpoint_paths: "\\tmp\\train_inception_v1_images_original_FineTune_logs\\model.ckpt-935"
+all_model_checkpoint_paths: "\\tmp\\train_inception_v1_images_original_FineTune_logs\\model.ckpt-971"
+all_model_checkpoint_paths: "\\tmp\\train_inception_v1_images_original_FineTune_logs\\model.ckpt-1000"
