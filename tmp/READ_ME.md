@@ -20,6 +20,7 @@ $ python export_inference_graph.py \
   --model_name=mobilenet_v1 \
   --image_size=224 \
   --output_file=/tmp/mobilenet_v1_224.pb
+  
 ---------------------------------------------------------------------------------------
 # freeze_graph.py
 모델의 일부로 자체 또는 사전 훈련 된 체크 포인트와 함께 결과 모델을 사용하려는 경우 freeze_graph를 실행하여 상수로 인라인 된 변수가 포함 된 그래프 정의를 얻을 수 있습니다.
